@@ -1,1 +1,1 @@
-importScripts('/nubes/firebase-messaging-sw.js');
+importScripts('https://farhanmonsurfahim.github.io/nubes/firebase-messaging-sw.js');
